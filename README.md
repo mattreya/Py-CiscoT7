@@ -35,6 +35,8 @@ For this CLI version, nothing is outstanding... unless something is spotted.
 
 Perhaps an intuitive GUI would be good?
 
+-updated code to run on python3.x  -mattreya
+
 ### Credits
 Most of the Internet for help & inspiration.
 
